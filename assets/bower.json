@@ -1,0 +1,7 @@
+{
+  "name": "teamelf-common",
+  "private": true,
+  "dependencies": {
+    "tui-editor": "^1.0.4"
+  }
+}
